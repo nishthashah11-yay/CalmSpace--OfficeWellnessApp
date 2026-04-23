@@ -166,7 +166,7 @@ The app prototype was designed in **Figma** with:
 - Smooth navigation and interactions  
 - Card-based layout for clarity  
 
-🔗 *[Add your Figma link here]*
+🔗 *https://www.figma.com/make/1dDH5NOkgQaqTSEgLEhIEC/MindfulWork-App-Design?fullscreen=1&t=l2dHZmjMafTfrF3f-1*
 
 ---
 
